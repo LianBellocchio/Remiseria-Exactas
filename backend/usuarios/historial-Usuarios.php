@@ -1,4 +1,4 @@
-
+DIA 23/9/2024
 Historial de viaje de usuario
 "Usuario 1 - Josefina Socobehere
     Chacabuco 739 a Pueyrredon 28 - $2850
