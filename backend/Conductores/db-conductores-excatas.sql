@@ -5,4 +5,3 @@ Base de Datos - Conductores Remiseria Exactas
 "Conductor 4 - Josefina Socobehere - Patente: NOL 365"
 "Conductor 5 - Pilar Costa Bauer - Patente: RPS 257"
 "Conductor 6 - Giuliano Bellocchio - Patente: BG 389 NO"
-"Conductor 7 - Abril Troncoso - Patente JGV 562"
